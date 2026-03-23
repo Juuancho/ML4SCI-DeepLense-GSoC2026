@@ -2,8 +2,10 @@
 .venv/
 env/
 
-dataset/
-dataset_split/
+Common_Test_I/dataset/
+Common_Test_I/dataset_split/
+
+Specific_Test_V/dataset_v/
 
 *.pth
 
