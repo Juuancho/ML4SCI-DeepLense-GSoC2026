@@ -71,4 +71,4 @@ matplotlib
 
 Juan Caraballo Nieves   
 Systems Engineering Student   
-GSoC 2025 Applicant — ML4SCI DeepLense
+GSoC 2026 Applicant — ML4SCI DeepLense
